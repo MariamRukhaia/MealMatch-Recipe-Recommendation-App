@@ -1,18 +1,30 @@
 # 🍽️ MealMatch — Recipe Recommendation & Grocery Assistant
 
-## 🎥 Demo
+MealMatch is a full-stack recipe discovery application that recommends meals based on a user's **dietary preferences, cuisine choices, allergies, and ingredients they already have**.
 
-[▶️ **Watch the MealMatch Demo**](https://drive.google.com/file/d/1KN7MlYq5TE_YzN5DR83bqiILuI3g4P55/view?usp=sharing)
+The application combines **recipe filtering with ingredient matching** to identify suitable recipes, shows users which ingredients they already have versus which they are missing, and helps them find grocery products for the missing ingredients.
+
+Built for **HackNYU**.
 
 ---
 
-## About
+<div align="center">
 
-MealMatch is a full-stack recipe discovery application that recommends meals based on a user's **dietary preferences, cuisine choices, allergies, and ingredients they already have**.
+### 🎥 MealMatch Demo
 
-The application combines recipe filtering with ingredient matching to identify suitable recipes, shows users which ingredients they already have versus which they are missing, and helps them find grocery products for the missing ingredients.
+See the full platform in action — cuisine and ingredient selection, personalized recipe matching, favorites, and the grocery assistant.
 
-Built for **HackNYU**.
+[▶️ **WATCH THE DEMO**](https://drive.google.com/file/d/1KN7MlYq5TE_YzN5DR83bqiILuI3g4P55/view?usp=sharing)
+
+</div>
+
+---
+
+## 🎯 About
+
+Users select their preferred cuisines and the ingredients they already have. MealMatch combines this information with their saved dietary preferences and allergies to generate personalized recipe recommendations.
+
+Rather than recommending recipes using only a cuisine or keyword, MealMatch combines multiple criteria to narrow results and bridges recipe discovery with grocery planning by identifying the ingredients the user still needs.
 
 ---
 
@@ -233,8 +245,6 @@ API keys, database passwords, and other credentials should be stored in environm
 ## 💡 What We Built
 
 MealMatch was developed as a **HackNYU hackathon prototype** exploring how recipe discovery can account for both personal dietary needs and ingredients already available at home.
-
-Rather than recommending recipes using only a cuisine or keyword, MealMatch combines multiple criteria to narrow results and bridges recipe discovery with grocery planning by identifying the ingredients the user still needs.
 
 The project demonstrates experience with:
 
