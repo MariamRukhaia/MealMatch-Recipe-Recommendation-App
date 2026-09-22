@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+SQLAlchemy
+PyMySQL
+bcrypt
+requests
+beautifulsoup4
